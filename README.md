@@ -1,4 +1,4 @@
-- 👋 Olá me chamo Douglas
-- 👀  Atualmente em fase de migraç de carreira
-- 🌱  Estou estudando Java e SpringBoot no momento
-- 💞️ Tão logo for possível estarei disposto a ajudar
+- 👋 Olá me chamo Douglas, moro em Estância Velha RS
+- 👀  Atualmente em fase de migração de carreira, particpando atualmente do programa Reset da CWI Software
+- 🌱  Estudei até o momento ALgoritimos, POO, JAVA, SpringBoot, Testes com Cypress e Testes de API Rest 
+- 💞️ Espero poder ajudar sempre
