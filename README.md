@@ -1,4 +1,4 @@
 - 👋 Olá me chamo Douglas, moro em Estância Velha RS
 - 👀  Atualmente em fase de migração de carreira, com apoio do programa Reset da CWI Software
-- 🌱  Estudei até o momento ALgoritimos, POO, JAVA, SpringBoot, Testes com Cypress e Testes de API Rest 
+- 🌱  Estudei até o momento Algoritimos, POO, JAVA, SpringBoot, Testes com Cypress e Testes de API Rest 
 - 💞️ Espero poder ajudar sempre
